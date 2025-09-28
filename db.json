@@ -29,8 +29,8 @@
     },
     {
       "id": 2,
-      "body": "some comment",
-      "user_id": 1
+      "body": "some comment1",
+      "user_id": 2
     }
   ],
   "users": [
@@ -50,6 +50,7 @@
     }
   ]
 }
+
 
 
 
