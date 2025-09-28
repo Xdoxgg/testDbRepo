@@ -37,7 +37,7 @@
     {
       "id": 1,
       "name": "testName1",
-      "username": "username2",
+      "username": "username1",
       "email": "test@test.com",
       "phone": "+375 44 516 42 02"
     },
@@ -50,6 +50,7 @@
     }
   ]
 }
+
 
 
 
