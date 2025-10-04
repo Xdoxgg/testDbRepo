@@ -41,7 +41,7 @@
     },
     {
       "id": 2,
-     "body": "some todo1",
+     "body": "some todo2",
       "completed": "true"
     }
   ],
@@ -64,6 +64,7 @@
     }
   ]
 }
+
 
 
 
