@@ -39,17 +39,20 @@
       "name": "testName1",
       "username": "username1",
       "email": "test@test.com",
-      "phone": "+375 44 516 42 02"
+      "phone": "+375 44 516 42 02",
+      "empty": ""
     },
     {
       "id": 2,
       "name": "testName2",
       "username": "username2",
       "email": "test@test.com",
-      "phone": "+375 44 516 42 01"
+      "phone": "+375 44 516 42 01",
+      "empty": ""
     }
   ]
 }
+
 
 
 
