@@ -42,7 +42,7 @@
     {
       "id": 2,
      "body": "some todo1",
-      "completed": "trues"
+      "completed": "true"
     }
   ],
   "users": [
@@ -64,6 +64,7 @@
     }
   ]
 }
+
 
 
 
