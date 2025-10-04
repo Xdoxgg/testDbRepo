@@ -33,6 +33,18 @@
       "user_id": 1
     }
   ],
+    "todos": [
+    {
+      "id": 1,
+      "body": "some todo1",
+      "completed": "falsy"
+    },
+    {
+      "id": 2,
+     "body": "some todo1",
+      "completed": "trues"
+    }
+  ],
   "users": [
     {
       "id": 1,
@@ -52,6 +64,7 @@
     }
   ]
 }
+
 
 
 
